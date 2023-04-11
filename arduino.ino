@@ -4,4 +4,5 @@ void setup(){
 void loop(){
 //반복실행
 	println("욥");
+	println("얩");
 }
